@@ -61,8 +61,8 @@ The goal of this project is to create an HR Analytics dashboard that provides in
    - Total Employees in the organisation
    - Present Rate of employees
    - WFH Rate of employees
-   - Total Working Days of the office
-   - Total Days Off of the office
+   - Total Working Days of the organisation
+   - Total Days Off of the organisation
 
 ### Visualizations
 
